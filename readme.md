@@ -1,4 +1,4 @@
-# Influxdb alarms dashboarding
+# Influxdb alarms dashboarding with Notifier
 
 ![](assets/Prodiag_Example.jpg)
 
