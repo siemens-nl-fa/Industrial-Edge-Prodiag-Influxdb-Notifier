@@ -6,13 +6,16 @@
 
 URL: [https://support.industry.siemens.com/cs/document/109740151/machine-and-plant-diagnostics-with-prodiag?dti=0&lc=en-AT](https://support.industry.siemens.com/cs/document/109740151/machine-and-plant-diagnostics-with-prodiag?dti=0&lc=en-AT)
 
-Download and run on TIA portal. Then install to you PLC and HMI
+Download and run on TIA portal. Then install to your PLC and HMI
+
 ![](https://support.industry.siemens.com/cs/images/109740151/109740151_PlantOverview.png)
 
 Hardware setup is as follows:
+
 ![](assets/20230717_145151_image.png)
 
 Allow OPCUA and Alarms and conditions
+
 ![](assets/20230717_145355_image.png)
 
 # 2. Installing the apps
@@ -41,7 +44,7 @@ Install Influxdb with the [Industrial edge publisher](https://support.industry.s
 
 ## 3.1 Databus
 
-Do the same as the [S7 Connector Data Handling Getting Started](https://github.com/industrial-edge/S7-Connector-data-handling-getting-started/blob/main/docs/Installation.md) and fill in the settings the same
+Do the same as the [S7 Connector Data Handling Getting Started](https://github.com/industrial-edge/S7-Connector-data-handling-getting-started/blob/main/docs/Installation.md) and fill in the settings as follows
 
 Topic: ie/#
 
